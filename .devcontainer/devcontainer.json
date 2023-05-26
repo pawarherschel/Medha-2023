@@ -18,7 +18,15 @@
 				"pucelle.vscode-css-navigation",
 				"oderwat.indent-rainbow",
 				"wix.vscode-import-cost",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"esbenp.prettier-vscode",
+				"mrmlnc.vscode-scss",
+				"svelte.svelte-vscode",
+				"bradlc.vscode-tailwindcss",
+				"austenc.tailwind-docs",
+				"flyfly6.terminal-in-status-bar",
+				"csstools.postcss",
+				"leizongmin.node-module-intellisense"
 			]
 		}
 	}
